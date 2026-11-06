@@ -1,0 +1,13 @@
+package main
+
+func maxValue(nums []int) int {
+	max := nums[0]
+
+	for _, n := range nums {
+		if n > max {
+			max = n
+		}
+	}
+
+	return max
+}
