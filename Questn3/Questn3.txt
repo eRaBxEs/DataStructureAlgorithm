@@ -1,0 +1,8 @@
+Write a function, all_even, that takes in a list of numbers as an argument. The function should return a boolean indicating whether or not every element of the list is an even number.
+
+You can assume that the list is non-empty.
+
+
+-- python-stub--:
+def all_even(nums):
+  pass # todo
